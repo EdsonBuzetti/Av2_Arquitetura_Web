@@ -76,6 +76,6 @@
 
 <h3>Diagrama</h3>
 
-![DiagramaJwt](https://github.com/EdsonBuzetti/Arquitetura-de-Aplicacoes-Web/assets/126629330/0da474a0-4837-4387-9e6d-373537b03e39)
+![diagrama](https://github.com/EdsonBuzetti/Av2_Arquitetura_Web/assets/126629330/7faa1e48-ea5e-4b21-88ef-3a1025dfcce4)
 
-[Link do Figma](https://www.figma.com/board/tr8WgZqoGpmwjJyDOBAMU1/Untitled?node-id=0-1&t=LwBmlAU9o7Hl0ddk-0)
+[Link do Figma](https://www.figma.com/board/LwO562JYKMkW54OcW0x3uA/Untitled?node-id=0-1&t=INgKBlkgwMHTj6TQ-0)
