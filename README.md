@@ -56,7 +56,7 @@
 
 <h4>Usuario não autorizado:</h4>
 
-![naoAutorizado](https://github.com/EdsonBuzetti/Av2_Arquitetura_Web/assets/126629330/e23219f4-c687-431c-bcbc-5c95253331a3)
+![naoAutorizado](https://github.com/EdsonBuzetti/Av2_Arquitetura_Web/assets/126629330/df53364c-9f56-4b34-9bae-0199c408c066)
 
 <h4>Falha login administrador:</h4>
 
